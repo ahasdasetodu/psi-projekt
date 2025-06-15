@@ -1,0 +1,6 @@
+data/*
+!data/voc_labels.pt
+!runs/
+!models/
+!*.ipynb
+models/best_model_deeplabv3.pth
